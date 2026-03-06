@@ -30,7 +30,6 @@ RAG_project/
 ├── server.py                # FastAPI + LangServe backend API
 ├── requirements.txt         # Python dependencies
 ├── .env                     # API keys (never commit this)
-├── .env.example             # Example env file
 │
 ├── src/
 │   ├── __init__.py
